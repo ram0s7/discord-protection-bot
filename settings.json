@@ -1,0 +1,17 @@
+{
+  "antiRaid": {
+    "1366906581492699168": {
+      "antiBot": true,
+      "antiFake": {
+        "enabled": false,
+        "minDays": 7
+      },
+      "channelDelete": true,
+      "channelCreate": true,
+      "roleDelete": true,
+      "ban": false,
+      "unban": false,
+      "kick": false
+    }
+  }
+}
